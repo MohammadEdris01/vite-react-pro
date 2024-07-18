@@ -1,5 +1,107 @@
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 
+@font-face {
+    font-family: 'Regular';
+    src: url(./font/EsportGraph-Regular.otf);
+}
+@font-face {
+    font-family: 'fogtow';
+    src: url(./font/FogtwoNo5.otf);
+}
+@font-face {
+    font-family: 'adoria';
+    src: url(./font/Adoria.ttf);
+}
+
+
+
+@font-face {
+    font-family: 'brolink';
+    src: url(./font/Brolink-Outline.ttf);
+}
+@font-face {
+    font-family: 'bestogram';
+    src: url(../src//font/Bestogram.ttf);
+}
+@font-face {
+    font-family: 'enigma';
+    src: url(./font/Enigma.ttf);
+}
+@font-face {
+    font-family: 'boruna';
+    src: url(./font/Boruna-Regular.ttf);
+}
+@font-face {
+    font-family: 'maginors';
+    src: url(./font/Maginors.ttf);
+}
+@font-face {
+    font-family: 'adoria';
+    src: url(./font/Adoria.otf);
+    src: url(./font/Adoria.ttf);
+}
+@font-face {
+    font-family: 'dingers';
+    src: url('./font/Dingers.ttf');
+}
+@font-face {
+    font-family: 'major';
+    src: url(./font/Majer.ttf);
+}
+@font-face {
+    font-family: 'dopeDisplay';
+    src: url(./font/TTF/DopeDisplay-Normal.ttf);
+    src: url(./font/TTF/DopeDisplay-BoldItalic.ttf);
+
+
+}
+@font-face {
+    font-family: 'bodware';
+    src: url(./font/Bodwars.ttf);
+}
+@font-face {
+    font-family: 'saudager';
+    src: url(./font/Saudagar.ttf);
+}
+@font-face {
+    font-family: 'fungka' ;
+    src: url(./font/Fungka\ City.ttf);
+}
+@font-face {
+    font-family: 'falling';
+    src: url(./font/Falling.otf);
+}
+@font-face {
+    font-family: 'alt';
+    src: url(./font/Alt\ Yokori\ Regular.otf);
+}
+
+@font-face {
+    font-family: 'jasmine';
+    src: url(./font/Jasmine.otf);
+}
+@font-face {
+    font-family: 'greyet';
+    src: url(./font/Greyst-Regular.otf);
+}
+@font-face {
+    font-family: 'raisa';
+    src: url(./font/Raisa\ Script.otf);
+}
+@font-face {
+    font-family: 'vako';
+    src: url(./font/Vako-Mave.ttf);
+}
+@font-face {
+    font-family: 'Blue';
+    src: url(./font/Blue\ Carousel.ttf);
+}
+@font-face {
+    font-family: 'blushing';
+    src: url(./font/Blushing\ Rose.ttf);
+}

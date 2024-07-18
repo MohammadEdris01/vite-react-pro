@@ -1,4 +1,10 @@
+@font-face {
+  font-family: 'supermely';
+  src: url(../src/font/EsportGraph-Regular.otf);
+}
 
-h1 {
-    color: red;
+
+.name{
+  font-family: 'supermely';
+  font-size: 100px;
 }
