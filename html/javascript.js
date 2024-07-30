@@ -48,13 +48,45 @@
 // * 5. clear
 // * 6. size
 
-
 // ! DateTime
 // * 1. new Date
 // * 2. getfull
 // * 3. toLocalTimeString
 // * 4. toDateString
 
+// !JSON (JavaScript Object Notation)
+// * 1. Converting Array
+// * 2. Ojbect
+// * 3. JSON.stringfy(value,null, 4)
+// * 4. JSON.parse
+// * 5. Replacer function JSON.stringfy( value , replacer(key,value))
 
-// !JSON    
-// * 1. 
+// ! Reset parameters(kalan parameter)
+// ! Spread Syntac (yayilma )
+
+// ! scheduling (SetTimeout, SetInterval)
+// * 1 setInterval(function,)
+// * 2. clearInterval()
+
+// !bind
+
+// ! Class
+// * 1. constructor
+// * 2. methods
+// * 3. inheritance
+// * 4. super
+
+// !Error handling
+// * 1. Try-catch
+// * 2. finally 
+// * 3. throw
+// * 4. special Error class
+// * 5. promise(new promise((resolve,reject)) , .then , catch)
+// * 6. async / await (async , await try-catch)
+// * 7. Global(Logging, User Notification,  Recovery, Graceful Shutdown)
+// * 8. modules (expoer ,import ,Export default)
+
+//! Dom
+// * 1.  
+
+
